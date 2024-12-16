@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio Andi Idris Maulana</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Andi Idris Maulana</h1>
+        <p>Automotive Engineering Graduate | Assembly Worker</p>
+        <nav>
+            <a href="#about">Tentang Saya</a>
+            <a href="#experience">Pengalaman</a>
+            <a href="#education">Pendidikan</a>
+            <a href="#skills">Keahlian</a>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>Tentang Saya</h2>
+            <p>Saya adalah lulusan Teknik Otomotif dengan pengalaman kerja di PT Daihatsu Jepang dan PT Paramount Bed Indonesia...</p>
+        </section>
+        <section id="experience">
+            <h2>Pengalaman Kerja</h2>
+            <ul>
+                <li><strong>PT Daihatsu Co., Ltd</strong> (2022-2023) - Perakitan transmisi FR-CVT</li>
+                <li><strong>PT Paramount Bed Indonesia</strong> (2018) - Perakitan tempat tidur rumah sakit</li>
+            </ul>
+        </section>
+        <section id="education">
+            <h2>Pendidikan</h2>
+            <p>SMK Negeri 1 Cikarang Barat - Teknik Kendaraan Ringan (2017)</p>
+        </section>
+        <section id="skills">
+            <h2>Keahlian</h2>
+            <ul>
+                <li>Ms. Office</li>
+                <li>Quality Control</li>
+                <li>Welding dan Painting</li>
+                <li>Problem Solving</li>
+                <li>Bahasa Jepang (Intermediate)</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Hubungi saya: <a href="mailto:andiidris6666@gmail.com">andiidris6666@gmail.com</a></p>
+    </footer>
+</body>
+</html>
